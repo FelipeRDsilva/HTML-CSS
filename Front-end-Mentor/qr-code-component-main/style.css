@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&display=swap');
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: hsl(212, 45%, 89%); 
+    font-family: 'Noto Serif JP', serif;
+    text-align: center;
+    padding: 400px;
+}
+main{
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 12px;
+    height: 750px;
+  
+   
+}
+
+
+picture > img {
+  border-radius:10px;
+  width: 100%;
+  
+ 
+    
+}

@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(51, 152, 152);
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+main{
+    background-color: white;
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    padding: 10px;
+    border-radius: 10px;
+}
+main > h1{
+    color:  hsl(71, 73%, 54%);
+}
+
+main > h2{
+    color:  hsl(179, 62%, 43%);
+}
+    
+
+aside{
+    background-color:  hsl(179, 62%, 43%);
+    color: white;
+    
+     
+}
+.valor{
+    font-size: 16px;
+  
+}
+aside > p > button {
+    padding: 10px;
+    text-align: center;
+}
+aside > ul {
+    list-style:none;
+}
+#dolar{
+    font-size: 30px;
+}
